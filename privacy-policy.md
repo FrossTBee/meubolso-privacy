@@ -74,8 +74,6 @@ O MeuBolso+ não é direcionado especificamente a crianças. O aplicativo é vol
 
 Esta política pode ser atualizada para refletir mudanças futuras no aplicativo. Quando novas funções alterarem a forma de tratamento de dados, o texto deverá ser revisado e republicado.
 
-A versão atualizada deverá estar disponível no link oficial da política: [link política].
-
 ## 13. Contato
 
 Em caso de dúvidas, solicitações, feedback ou assuntos relacionados à privacidade, o usuário pode entrar em contato pelo e-mail:
